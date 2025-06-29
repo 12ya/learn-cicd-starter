@@ -1,3 +1,5 @@
+https://github.com/12ya/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
+
 # learn-cicd-starter (Notely)
 
 12ya's version of "Notely" application for the "Learn CICD" course
