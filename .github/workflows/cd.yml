@@ -33,3 +33,4 @@ jobs:
       - name: Push to GCP registry
         run: gcloud builds submit --tag us-central1-docker.pkg.dev/notely-464414/notely-ar-repo/notely:latest .
     
+    
